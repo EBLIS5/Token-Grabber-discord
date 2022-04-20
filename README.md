@@ -13,4 +13,4 @@
 You can read it from [GitHub Wiki](#)
 
 ## Video Tutorial
-Youtube : soon...
+* [youtube](https://www.youtube.com/channel/UCXfAdwGy2uE7qpXOpNENa1g)
