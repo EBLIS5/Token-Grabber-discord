@@ -4,7 +4,7 @@
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 #### Issues ? 
- * [Discord](https://discord.gg/ah7bfjSnhk)
+ * [telegram](https://t.me/ATLAS_TEAMM)
  * [Issues Page](#)
 #### Like the project? Leave a star on the repository!
 
