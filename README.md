@@ -5,7 +5,7 @@
 
 #### Issues ? 
  * [telegram](https://t.me/ATLAS_TEAMM)
- * [Issues Page](#)
+ * [Issues Page](https://github.com/EBLISYALME/Token-Grabber-discord/issues)
 #### Like the project? Leave a star on the repository!
 
 ## Documentation
