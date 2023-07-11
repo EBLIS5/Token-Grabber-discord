@@ -4,7 +4,7 @@
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 #### Issues ? 
- * [telegram](https://t.me/ATLAS_TEAMM)
+ * [telegram](#)
  * [Issues Page](https://github.com/EBLISYALME/Token-Grabber-discord/issues)
 #### Like the project? Leave a star on the repository!
 
